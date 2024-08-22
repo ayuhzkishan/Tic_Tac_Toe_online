@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Tic Tac Toe</string>
+    <string name="play_online">Play Online</string>
+    <string name="play_offline">Play offline</string>
+    <string name="play_offline_button">Play Offline</string>
+    <string name="tic_tac_toe_online">Tic Tac Toe Online</string>
+    <string name="game_not_started">Game Not Started</string>
 </resources>
